@@ -1,0 +1,121 @@
+n_clusters,init_method,metric,algorithm,mean,std
+3,kmeans_plusplus,average cluster disparity,Lloyd,0.00932612862041548,0.004664594777508594
+3,kmeans_plusplus,average cluster disparity,Fair-Lloyd,0.02016664823557627,0.02272034591283278
+3,kmeans_plusplus,average cluster disparity,Fair-Centroid (λ=0.5),0.0007672583211459837,0.0007437846861575573
+3,kmeans_plusplus,k-means objective,Lloyd,3.0591965556853,0.23027944338102446
+3,kmeans_plusplus,k-means objective,Fair-Lloyd,3.091172544837572,0.23391049650884774
+3,kmeans_plusplus,k-means objective,Fair-Centroid (λ=0.5),3.2472926720887925,0.34079219898300905
+3,kmeans_plusplus,fair centroid objective,Lloyd,3.6923485603719257,0.7182980229115369
+3,kmeans_plusplus,fair centroid objective,Fair-Lloyd,4.044318409032982,0.6944036723920679
+3,kmeans_plusplus,fair centroid objective,Fair-Centroid (λ=0.5),3.0126530591038234,0.19429473753271748
+3,kmeans_plusplus,fair k-means objective,Lloyd,3.310397890499999,0.3290365635199346
+3,kmeans_plusplus,fair k-means objective,Fair-Lloyd,3.273701177331443,0.3319139449263734
+3,kmeans_plusplus,fair k-means objective,Fair-Centroid (λ=0.5),3.526497740505621,0.482429209116088
+4,kmeans_plusplus,average cluster disparity,Lloyd,0.011521745613829262,0.0036223191983228245
+4,kmeans_plusplus,average cluster disparity,Fair-Lloyd,0.022095017925153403,0.017267964956780124
+4,kmeans_plusplus,average cluster disparity,Fair-Centroid (λ=0.5),0.000680811259142943,0.0008693795881068307
+4,kmeans_plusplus,k-means objective,Lloyd,2.365647439136607,0.29490617420359555
+4,kmeans_plusplus,k-means objective,Fair-Lloyd,2.390961228923863,0.2962631425407199
+4,kmeans_plusplus,k-means objective,Fair-Centroid (λ=0.5),2.549951533142248,0.4079294471086381
+4,kmeans_plusplus,fair centroid objective,Lloyd,3.105093636950376,0.3397141796958212
+4,kmeans_plusplus,fair centroid objective,Fair-Lloyd,3.4364463971824257,0.44755335785372086
+4,kmeans_plusplus,fair centroid objective,Fair-Centroid (λ=0.5),2.6217981418650242,0.15050933643638786
+4,kmeans_plusplus,fair k-means objective,Lloyd,2.515594578747366,0.3928889054554662
+4,kmeans_plusplus,fair k-means objective,Fair-Lloyd,2.483976046194422,0.39548659397945474
+4,kmeans_plusplus,fair k-means objective,Fair-Centroid (λ=0.5),2.727885687382127,0.5482430290512643
+5,kmeans_plusplus,average cluster disparity,Lloyd,0.011443719220412646,0.0024100432379636797
+5,kmeans_plusplus,average cluster disparity,Fair-Lloyd,0.0204874244513685,0.013816268374580885
+5,kmeans_plusplus,average cluster disparity,Fair-Centroid (λ=0.5),0.0005452396917760361,0.0006609668782922279
+5,kmeans_plusplus,k-means objective,Lloyd,1.8526793399610861,0.1985033977139258
+5,kmeans_plusplus,k-means objective,Fair-Lloyd,1.8867022080219706,0.20704386206067718
+5,kmeans_plusplus,k-means objective,Fair-Centroid (λ=0.5),2.0060091897419037,0.3242889641568545
+5,kmeans_plusplus,fair centroid objective,Lloyd,2.6343298505934696,0.39316614759951823
+5,kmeans_plusplus,fair centroid objective,Fair-Lloyd,2.896251596085959,0.43598126051331765
+5,kmeans_plusplus,fair centroid objective,Fair-Centroid (λ=0.5),2.2974034027854398,0.1288784087067293
+5,kmeans_plusplus,fair k-means objective,Lloyd,1.935089746848461,0.24755126653630138
+5,kmeans_plusplus,fair k-means objective,Fair-Lloyd,1.9306381879257288,0.2533500674115901
+5,kmeans_plusplus,fair k-means objective,Fair-Centroid (λ=0.5),2.103429492976123,0.4153342453694885
+6,kmeans_plusplus,average cluster disparity,Lloyd,0.010923976287928376,0.0015375370785910795
+6,kmeans_plusplus,average cluster disparity,Fair-Lloyd,0.018013181785780576,0.011072782541866145
+6,kmeans_plusplus,average cluster disparity,Fair-Centroid (λ=0.5),0.0004052111573005807,0.0004628856603386497
+6,kmeans_plusplus,k-means objective,Lloyd,1.5959675615289601,0.13419714025215534
+6,kmeans_plusplus,k-means objective,Fair-Lloyd,1.6302574114712802,0.1380757867431213
+6,kmeans_plusplus,k-means objective,Fair-Centroid (λ=0.5),1.7445356164597012,0.25686856270974373
+6,kmeans_plusplus,fair centroid objective,Lloyd,2.372376811270162,0.08731376880923727
+6,kmeans_plusplus,fair centroid objective,Fair-Lloyd,2.587176177219197,0.19485266464863762
+6,kmeans_plusplus,fair centroid objective,Fair-Centroid (λ=0.5),2.140225896193592,0.4608981813342788
+6,kmeans_plusplus,fair k-means objective,Lloyd,1.66164318145653,0.16612209899594266
+6,kmeans_plusplus,fair k-means objective,Fair-Lloyd,1.6663990596902252,0.1683474518108914
+6,kmeans_plusplus,fair k-means objective,Fair-Centroid (λ=0.5),1.824477938617805,0.3250489413798
+7,kmeans_plusplus,average cluster disparity,Lloyd,0.010233018715037267,0.0012234493263731875
+7,kmeans_plusplus,average cluster disparity,Fair-Lloyd,0.01594556181311712,0.009122405679216093
+7,kmeans_plusplus,average cluster disparity,Fair-Centroid (λ=0.5),0.00024256033058826925,0.0002549220129106573
+7,kmeans_plusplus,k-means objective,Lloyd,1.4031865281196847,0.11151055506597947
+7,kmeans_plusplus,k-means objective,Fair-Lloyd,1.4248851120375263,0.113157311795992
+7,kmeans_plusplus,k-means objective,Fair-Centroid (λ=0.5),1.5320904166771074,0.20751460378342546
+7,kmeans_plusplus,fair centroid objective,Lloyd,2.194973661167054,0.08916687021008658
+7,kmeans_plusplus,fair centroid objective,Fair-Lloyd,2.3453656412648947,0.15815810368549243
+7,kmeans_plusplus,fair centroid objective,Fair-Centroid (λ=0.5),1.9812569472897217,0.38397419329350074
+7,kmeans_plusplus,fair k-means objective,Lloyd,1.4568483277285909,0.1264990627242979
+7,kmeans_plusplus,fair k-means objective,Fair-Lloyd,1.4563461057472384,0.1263373239082693
+7,kmeans_plusplus,fair k-means objective,Fair-Centroid (λ=0.5),1.5950948462976027,0.25240189621636094
+8,kmeans_plusplus,average cluster disparity,Lloyd,0.009416581129298078,0.0015007108075950082
+8,kmeans_plusplus,average cluster disparity,Fair-Lloyd,0.013869968123452567,0.00782626530901235
+8,kmeans_plusplus,average cluster disparity,Fair-Centroid (λ=0.5),0.00017738910766065943,0.0002183010091128947
+8,kmeans_plusplus,k-means objective,Lloyd,1.2863437779368527,0.03966909130517073
+8,kmeans_plusplus,k-means objective,Fair-Lloyd,1.3131119779565288,0.05668284932075491
+8,kmeans_plusplus,k-means objective,Fair-Centroid (λ=0.5),1.374060411359134,0.07344428305578155
+8,kmeans_plusplus,fair centroid objective,Lloyd,2.025707948859628,0.06294645218769634
+8,kmeans_plusplus,fair centroid objective,Fair-Lloyd,2.1648463327587795,0.13792402934842762
+8,kmeans_plusplus,fair centroid objective,Fair-Centroid (λ=0.5),1.7970824470322777,0.04572858753622552
+8,kmeans_plusplus,fair k-means objective,Lloyd,1.3385185860766662,0.04283855616146355
+8,kmeans_plusplus,fair k-means objective,Fair-Lloyd,1.3432457648087825,0.05561431818820153
+8,kmeans_plusplus,fair k-means objective,Fair-Centroid (λ=0.5),1.4294731378380485,0.08100182815316256
+9,kmeans_plusplus,average cluster disparity,Lloyd,0.009191269136875659,0.0023991162301222183
+9,kmeans_plusplus,average cluster disparity,Fair-Lloyd,0.01330181493486379,0.007247691068476524
+9,kmeans_plusplus,average cluster disparity,Fair-Centroid (λ=0.5),0.00010603998793951627,0.0001420037470513722
+9,kmeans_plusplus,k-means objective,Lloyd,1.2326921967025424,0.025157351827830188
+9,kmeans_plusplus,k-means objective,Fair-Lloyd,1.2510334922699469,0.031447432784738286
+9,kmeans_plusplus,k-means objective,Fair-Centroid (λ=0.5),1.3074313582153942,0.04948342231507182
+9,kmeans_plusplus,fair centroid objective,Lloyd,1.9236598531989995,0.07005936520021197
+9,kmeans_plusplus,fair centroid objective,Fair-Lloyd,2.054378195638815,0.15870159305059217
+9,kmeans_plusplus,fair centroid objective,Fair-Centroid (λ=0.5),1.6989757268756953,0.05581465554945206
+9,kmeans_plusplus,fair k-means objective,Lloyd,1.2812432071470468,0.029311386329168805
+9,kmeans_plusplus,fair k-means objective,Fair-Lloyd,1.2788716376237472,0.032935643342837786
+9,kmeans_plusplus,fair k-means objective,Fair-Centroid (λ=0.5),1.3580421112747378,0.0548791603835427
+10,kmeans_plusplus,average cluster disparity,Lloyd,0.00920439954157348,0.003225485070869644
+10,kmeans_plusplus,average cluster disparity,Fair-Lloyd,0.012759048355187898,0.006488798588411705
+10,kmeans_plusplus,average cluster disparity,Fair-Centroid (λ=0.5),7.861048476425575e-05,0.00011804648496200427
+10,kmeans_plusplus,k-means objective,Lloyd,1.1860629849355921,0.0236491227082058
+10,kmeans_plusplus,k-means objective,Fair-Lloyd,1.2018340452410705,0.0245234602241526
+10,kmeans_plusplus,k-means objective,Fair-Centroid (λ=0.5),1.2593293167018482,0.04433626305422025
+10,kmeans_plusplus,fair centroid objective,Lloyd,1.8502541019018053,0.09930383205054306
+10,kmeans_plusplus,fair centroid objective,Fair-Lloyd,1.9595703595448943,0.15357859035833218
+10,kmeans_plusplus,fair centroid objective,Fair-Centroid (λ=0.5),1.6226592618597493,0.0582323420911179
+10,kmeans_plusplus,fair k-means objective,Lloyd,1.2303419485697409,0.028870004751004784
+10,kmeans_plusplus,fair k-means objective,Fair-Lloyd,1.226631611309375,0.029528867232424802
+10,kmeans_plusplus,fair k-means objective,Fair-Centroid (λ=0.5),1.3077708511716213,0.05192716268564098
+11,kmeans_plusplus,average cluster disparity,Lloyd,0.009398282835524538,0.0034172383648735398
+11,kmeans_plusplus,average cluster disparity,Fair-Lloyd,0.012374133066485306,0.00602139606971786
+11,kmeans_plusplus,average cluster disparity,Fair-Centroid (λ=0.5),6.187865781090735e-05,0.00010020879140659979
+11,kmeans_plusplus,k-means objective,Lloyd,1.1433937219764245,0.018018326518826105
+11,kmeans_plusplus,k-means objective,Fair-Lloyd,1.1615827368238008,0.021012051320065967
+11,kmeans_plusplus,k-means objective,Fair-Centroid (λ=0.5),1.2165854243709213,0.03362831288419433
+11,kmeans_plusplus,fair centroid objective,Lloyd,1.7770692211634576,0.08717599418103152
+11,kmeans_plusplus,fair centroid objective,Fair-Lloyd,1.8757187733797036,0.13054133182279148
+11,kmeans_plusplus,fair centroid objective,Fair-Centroid (λ=0.5),1.554628630934109,0.0565096031480397
+11,kmeans_plusplus,fair k-means objective,Lloyd,1.1846211545217655,0.022818423740956564
+11,kmeans_plusplus,fair k-means objective,Fair-Lloyd,1.1838487628197645,0.02628044699880186
+11,kmeans_plusplus,fair k-means objective,Fair-Centroid (λ=0.5),1.261443548264431,0.04012367465945605
+12,kmeans_plusplus,average cluster disparity,Lloyd,0.009366614008440183,0.003116981239809617
+12,kmeans_plusplus,average cluster disparity,Fair-Lloyd,0.01255362150070103,0.005534264311741391
+12,kmeans_plusplus,average cluster disparity,Fair-Centroid (λ=0.5),4.245276003555172e-05,8.0163263687083e-05
+12,kmeans_plusplus,k-means objective,Lloyd,1.1069313952965796,0.017311796002645694
+12,kmeans_plusplus,k-means objective,Fair-Lloyd,1.1234973058265156,0.019385978317343528
+12,kmeans_plusplus,k-means objective,Fair-Centroid (λ=0.5),1.178178686292445,0.0327229202350978
+12,kmeans_plusplus,fair centroid objective,Lloyd,1.7192970931340688,0.08136706693792957
+12,kmeans_plusplus,fair centroid objective,Fair-Lloyd,1.8164640322221195,0.1210499022031087
+12,kmeans_plusplus,fair centroid objective,Fair-Centroid (λ=0.5),1.5039950931187176,0.0536847623945172
+12,kmeans_plusplus,fair k-means objective,Lloyd,1.1465998406987952,0.022732082479289654
+12,kmeans_plusplus,fair k-means objective,Fair-Lloyd,1.1427986272469117,0.02436439654640326
+12,kmeans_plusplus,fair k-means objective,Fair-Centroid (λ=0.5),1.2193404158343828,0.03941431935554745

@@ -1,0 +1,45 @@
+n_clusters,init_method,metric,algorithm,lambda_,mean,std
+5,kmeans_plusplus,average cluster disparity,Lloyd,0.0,0.01747933456369459,0.0024646028458880807
+5,kmeans_plusplus,average cluster disparity,Fair-Centroid,0.1,0.0089741297840159,0.006513683592007942
+5,kmeans_plusplus,average cluster disparity,Fair-Centroid,0.2,0.007183435491850503,0.0027279918575880196
+5,kmeans_plusplus,average cluster disparity,Fair-Centroid,0.3,0.007429866215919408,0.003152228418578736
+5,kmeans_plusplus,average cluster disparity,Fair-Centroid,0.4,0.007471280117996669,0.0032757263453497445
+5,kmeans_plusplus,average cluster disparity,Fair-Centroid,0.5,0.007455233587478168,0.0029316939348440064
+5,kmeans_plusplus,average cluster disparity,Fair-Centroid,0.6,0.007218152769436861,0.0026718844349738506
+5,kmeans_plusplus,average cluster disparity,Fair-Centroid,0.7,0.008852442441738669,0.018936254395061882
+5,kmeans_plusplus,average cluster disparity,Fair-Centroid,0.8,0.00676268696403315,0.0023763336980350985
+5,kmeans_plusplus,average cluster disparity,Fair-Centroid,0.9,0.006893697022126079,0.0036586928217682783
+5,kmeans_plusplus,average cluster disparity,Fair-Centroid,1.0,0.00434747023516926,0.0025836314705702523
+5,kmeans_plusplus,k-means objective,Lloyd,0.0,1.8526793399610861,0.1985033977139258
+5,kmeans_plusplus,k-means objective,Fair-Centroid,0.1,1.903936260257554,0.2351321480074245
+5,kmeans_plusplus,k-means objective,Fair-Centroid,0.2,1.9201339499932997,0.2693230445845788
+5,kmeans_plusplus,k-means objective,Fair-Centroid,0.3,1.9313039552862896,0.26994828595095355
+5,kmeans_plusplus,k-means objective,Fair-Centroid,0.4,1.9500933464584913,0.27964985331365105
+5,kmeans_plusplus,k-means objective,Fair-Centroid,0.5,1.96055823221757,0.27765342522893777
+5,kmeans_plusplus,k-means objective,Fair-Centroid,0.6,1.972303309750643,0.2822089401288422
+5,kmeans_plusplus,k-means objective,Fair-Centroid,0.7,1.9889555609993357,0.28411263676517107
+5,kmeans_plusplus,k-means objective,Fair-Centroid,0.8,1.998789300740907,0.2871345648671142
+5,kmeans_plusplus,k-means objective,Fair-Centroid,0.9,2.017169675108823,0.29761193256392643
+5,kmeans_plusplus,k-means objective,Fair-Centroid,1.0,2.176954626927671,0.31824247866897365
+5,kmeans_plusplus,fair centroid objective,Lloyd,0.0,3.015645861423429,0.7462020381810814
+5,kmeans_plusplus,fair centroid objective,Fair-Centroid,0.1,2.8117526624036695,0.9165425639231514
+5,kmeans_plusplus,fair centroid objective,Fair-Centroid,0.2,2.6870933511963955,0.6355461722832358
+5,kmeans_plusplus,fair centroid objective,Fair-Centroid,0.3,2.7642074969030808,0.859404060906843
+5,kmeans_plusplus,fair centroid objective,Fair-Centroid,0.4,2.741911304467215,0.6714735958587691
+5,kmeans_plusplus,fair centroid objective,Fair-Centroid,0.5,2.6865903565456235,0.5002046388088492
+5,kmeans_plusplus,fair centroid objective,Fair-Centroid,0.6,2.679362967472297,0.4976388191055214
+5,kmeans_plusplus,fair centroid objective,Fair-Centroid,0.7,2.733570096459535,0.78604840872901
+5,kmeans_plusplus,fair centroid objective,Fair-Centroid,0.8,2.6205427087123496,0.21680282691223102
+5,kmeans_plusplus,fair centroid objective,Fair-Centroid,0.9,2.6825775343956364,0.6850881578430235
+5,kmeans_plusplus,fair centroid objective,Fair-Centroid,1.0,2.8964542029847338,1.1237933238509614
+5,kmeans_plusplus,fair k-means objective,Lloyd,0.0,2.215757592122914,0.29933900118923007
+5,kmeans_plusplus,fair k-means objective,Fair-Centroid,0.1,2.3782671821509798,0.5124913962355031
+5,kmeans_plusplus,fair k-means objective,Fair-Centroid,0.2,2.3622602145965157,0.5354400150540791
+5,kmeans_plusplus,fair k-means objective,Fair-Centroid,0.3,2.355788624294545,0.5925030730875199
+5,kmeans_plusplus,fair k-means objective,Fair-Centroid,0.4,2.3239779017365736,0.5220110884577762
+5,kmeans_plusplus,fair k-means objective,Fair-Centroid,0.5,2.3138195150469785,0.5288601813278447
+5,kmeans_plusplus,fair k-means objective,Fair-Centroid,0.6,2.295719434283032,0.5016706723964388
+5,kmeans_plusplus,fair k-means objective,Fair-Centroid,0.7,2.297344439397844,0.5056597736412107
+5,kmeans_plusplus,fair k-means objective,Fair-Centroid,0.8,2.2930254927576867,0.5092412319257712
+5,kmeans_plusplus,fair k-means objective,Fair-Centroid,0.9,2.2960164000332446,0.5224747187362145
+5,kmeans_plusplus,fair k-means objective,Fair-Centroid,1.0,2.358925659060059,0.5243559322701834
