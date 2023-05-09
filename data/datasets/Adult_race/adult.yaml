@@ -1,0 +1,41 @@
+name: Adult_race
+filepath_or_buffer: data/datasets/Adult_race/adult.csv
+index_col: object
+nonsensitive:
+- workclass:Private
+- workclass:Self-emp-not-inc
+- workclass:Self-emp-inc
+- workclass:Federal-gov
+- workclass:Local-gov
+- workclass:State-gov
+- workclass:Without-pay
+- workclass:Never-worked
+- education-num
+- occupation:Tech-support
+- occupation:Craft-repair
+- occupation:Other-service
+- occupation:Sales
+- occupation:Exec-managerial
+- occupation:Prof-specialty
+- occupation:Handlers-cleaners
+- occupation:Machine-op-inspct
+- occupation:Adm-clerical
+- occupation:Farming-fishing
+- occupation:Transport-moving
+- occupation:Priv-house-serv
+- occupation:Protective-serv
+- occupation:Armed-Forces
+- capital-gain
+- capital-loss
+- hours-per-week
+sensitive:
+  race:
+  - White
+  - Asian-Pac-Islander
+  - Amer-Indian-Eskimo
+  - Other
+  - Black
+predictor:
+  annual-income:
+  - '>50K'
+  - <=50K

@@ -1,0 +1,89 @@
+name: CreditCard_SEX
+filepath_or_buffer: data/datasets/CreditCard_SEX/creditcard.csv
+index_col: object
+nonsensitive:
+- LIMIT_BAL
+- PAY_0:-2
+- PAY_0:-1
+- PAY_0:0
+- PAY_0:1
+- PAY_0:2
+- PAY_0:3
+- PAY_0:4
+- PAY_0:5
+- PAY_0:6
+- PAY_0:7
+- PAY_0:8
+- PAY_2:-2
+- PAY_2:-1
+- PAY_2:0
+- PAY_2:1
+- PAY_2:2
+- PAY_2:3
+- PAY_2:4
+- PAY_2:5
+- PAY_2:6
+- PAY_2:7
+- PAY_2:8
+- PAY_3:-2
+- PAY_3:-1
+- PAY_3:0
+- PAY_3:1
+- PAY_3:2
+- PAY_3:3
+- PAY_3:4
+- PAY_3:5
+- PAY_3:6
+- PAY_3:7
+- PAY_3:8
+- PAY_4:-2
+- PAY_4:-1
+- PAY_4:0
+- PAY_4:1
+- PAY_4:2
+- PAY_4:3
+- PAY_4:4
+- PAY_4:5
+- PAY_4:6
+- PAY_4:7
+- PAY_4:8
+- PAY_5:-2
+- PAY_5:-1
+- PAY_5:0
+- PAY_5:2
+- PAY_5:3
+- PAY_5:4
+- PAY_5:5
+- PAY_5:6
+- PAY_5:7
+- PAY_5:8
+- PAY_6:-2
+- PAY_6:-1
+- PAY_6:0
+- PAY_6:2
+- PAY_6:3
+- PAY_6:4
+- PAY_6:5
+- PAY_6:6
+- PAY_6:7
+- PAY_6:8
+- BILL_AMT1
+- BILL_AMT2
+- BILL_AMT3
+- BILL_AMT4
+- BILL_AMT5
+- BILL_AMT6
+- PAY_AMT1
+- PAY_AMT2
+- PAY_AMT3
+- PAY_AMT4
+- PAY_AMT5
+- PAY_AMT6
+sensitive:
+  SEX:
+  - '1'
+  - '2'
+predictor:
+  default payment next month:
+  - '0'
+  - '1'
