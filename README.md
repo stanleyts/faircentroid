@@ -1,6 +1,5 @@
 # faircentroid
-Code and data for the paper "Towards Fairer Centroids in $k$-means Clustering"
-under review at AAAI-24 (Paper ID 11978).
+Code and data for the paper "Towards Fairer Centroids in $k$-means Clustering".
 
 ## File structure
 1. [data](data): contains datasets and generated data
